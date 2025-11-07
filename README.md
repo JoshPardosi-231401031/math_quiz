@@ -1,7 +1,7 @@
 # 🧮 MathQuiz
 
 ## 👤 Identitas
-**Nama:** Josh Pardosi  
+**Nama:** Josh Peter Pardosi  
 **NIM:** 231401031  
 **Lab:** Pemrograman Mobile 1  
 
@@ -27,20 +27,19 @@ Tujuan utama aplikasi ini adalah menyediakan pengalaman belajar yang menyenangka
 ## 🖼️ Screenshot / Video Aplikasi
 | Tampilan | Gambar |
 |-----------|---------|
-| Home Screen | ![Home Screen](./assets/screenshots/home.png) |
-| Soal Kuis | ![Quiz Screen](./assets/screenshots/quiz.png) |
-| Hasil Akhir | ![Result Screen](./assets/screenshots/result.png) |
+| Home Screen |<img width="1080" height="2400" alt="HomeScreen" src="https://github.com/user-attachments/assets/9dfd294a-38d6-4a4b-a237-c842e0d7e78c" /> |
+| Soal Kuis | <img width="1080" height="2400" alt="Soal" src="https://github.com/user-attachments/assets/9e1b0333-e086-45e4-a3aa-42356ebbf573" /> |
+| Hasil Akhir | <img width="1080" height="2400" alt="ResultScreen" src="https://github.com/user-attachments/assets/ba16f203-c5c5-455e-8c29-5c913ec19e55" /> |
 
-> *(Ganti link gambar di atas sesuai lokasi file screenshot kamu di folder proyek.)*
+https://github.com/user-attachments/assets/f4e9e6c6-dc47-45ee-a1e5-63729486118c
 
----
+
 
 ## 🎨 Link Mockup / Prototype Aplikasi
-[Figma Prototype – MathQuiz](https://www.figma.com/proto/...)  
-> *(Masukkan link prototype Figma kamu di sini.)*
-
+[Figma Prototype – MathQuiz](https://www.figma.com/design/kByuLEXRhzTSXmAUWtOSYd/Math?node-id=7-46&t=ruWTJ5aMuqU14YyS-1)
+https://fonts.google.com/specimen/Inter
 
 ## 🙏 Credit
 Aplikasi ini menggunakan beberapa aset gratis dengan lisensi bebas atribusi, di antaranya:
 - Ikon dari [Icons8](https://www.figma.com/community/plugin/791103617505812222)
-- Font: [Inter]([https://fonts.google.com/specimen/Poppins](https://fonts.google.com/specimen/Inter))  
+- Font: [Inter](https://fonts.google.com/specimen/Inter)
